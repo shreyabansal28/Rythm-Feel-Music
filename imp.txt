@@ -1,0 +1,2 @@
+font-family: 'Ibarra Real Nova', serif;
+font-family: 'Teko', sans-serif;
